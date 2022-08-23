@@ -1,7 +1,7 @@
 +++
 title = "Ersten Lektionen WEB"
 date = "2022-08-16"
-draft = true
+draft = false
 pinned = false
 footnotes = "Heute ist der 23.08.2022"
 +++
