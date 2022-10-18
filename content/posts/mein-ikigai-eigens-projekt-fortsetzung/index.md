@@ -11,8 +11,10 @@ I﻿ch habe im WEB Unterricht mein **Ikigai** kennengelernt. Bei Ikigai handelt 
 
 Bei Lin und meinem Projekt geht es darum, eine ausgezeichnete Webseite einer Immobilien Firma namens Swiss Made Home zu erstellen. Die Firma hat seit August 2023 ein neues Projekt angefangen, welches eine **passende Webseite** für Kunden benötigt. Das neue Projekt sind Neubauwohnungen in Morgins Wallis.
 
+B﻿ereits besteht ein passendes **Canvas zu unserem Projekt**. Ein Canvas dient dazu, Übersicht vom Projekt zu haben. Dies erleichtert es Geschäftsmodelle zu verstehen, zu besprechen, zu bewerten und zu optimieren.
+
 Unser **nächsten Schritt** ist es, über den Ort zu recherchieren und passende Bilder zu machen. Wir verschaffen uns einen Überblick über die Firma und Ihre Kunden. Dazu werden wir eine Sitzung mit dem Projektentwickler Guido van Hoogdalen machen um mehr über das Projekt zu erfahren.
 
-I﻿ch mag es am Projekt zu arbeiten!
-
 ![](download.jpg "Morgins im Winter")
+
+I﻿ch mag es am Projekt zu arbeiten!
