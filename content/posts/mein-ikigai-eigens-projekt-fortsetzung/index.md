@@ -1,5 +1,5 @@
 +++
-title = "Mein Ikigai / Eigens Projekt Fortsetzung "
+title = "Mein Ikigai / Eigenes Projekt Fortsetzung "
 date = "2022-09-13"
 draft = false
 pinned = false
