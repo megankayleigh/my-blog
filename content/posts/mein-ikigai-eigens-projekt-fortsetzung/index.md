@@ -3,6 +3,7 @@ title = "Mein Ikigai / Eigenes Projekt Fortsetzung "
 date = "2022-09-13"
 draft = false
 pinned = false
+image = "download.jpg"
 footnotes = "W﻿irtschaftsmittelschule Bern"
 +++
 I﻿ch habe im WEB Unterricht mein **Ikigai** kennengelernt. Bei Ikigai handelt es sich um eine **japanische Lebensphilosophie**. Ziel ist es, das eigene Glück, innere Zufriedenheit und ein sinnreiches und erfülltes Leben zu erreichen. Ich finde dass ich mich selbst gut kenne. Alle Fragen konnte ich selbstsicher beantworten und kam daher auf ein Ergebnis, welches mich nicht überraschte. Ich lebe um Spass mit meinen Mitmenschen zu haben und ebenfalls meine Ziele selbständig zu verfolgen. 
