@@ -1,6 +1,6 @@
 +++
 headless = true
-name = "My Name"
-image = ""
+name = "Megan"
+image = "/media/berge-hitrgrundbild.jpg"
 email = ""
 +++
