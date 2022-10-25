@@ -18,3 +18,5 @@ CSS (**Cascading Style Sheets**) ist für die **Formatierung** und für das 
 Die beiden Sprachen, HTML und CSS, sind unabhängig voneinander und sollten auch in unterschiedlichen Dateien gespeichert werden
 
 D﻿ie **Software Visual Studio Code** habe ich auf meinen Computer hochgeladen. Dies soll uns helfen unsere Webseite zu erstellen.
+
+Hier ist der Link zum Tutorial: https://code.makery.ch/de/library/html-css/
