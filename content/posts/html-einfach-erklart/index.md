@@ -1,5 +1,5 @@
 +++
-title = "HTML einfach erklärt"
+title = "HTML & CSS einfach erklärt"
 date = "2022-10-25"
 draft = false
 pinned = false
@@ -11,6 +11,10 @@ H﻿eute, am 25. Oktober haben wir den Theorie Teil von HTML repetiert.
 H﻿TML ist die Abkürzung von **Hypertext Markup Language** (auf Deutsch Hypertext Auszeichnungssprache).\
 E﻿in britischer Informatiker Tim Berners-Lee, der auch WWW erfand, entwickelte auch HTML.
 
-S﻿ie macht Browsern eine Interpretation und Anzeige sowie das Verknüpfen von Webseiten möglich. Im HTML Format werden Webseiten geschrieben. Der Text einer Webseite wird in einer HTML-Datei formuliert. 
+S﻿ie macht Browsern eine Interpretation und Anzeige sowie das Verknüpfen von Webseiten möglich. Im HTML Format werden **Webseiten geschrieben**. Der Text einer Webseite wird in einer HTML-Datei formuliert. 
 
-D﻿ie Software Visual Studio Code habe ich auf meinen Computer hochgeladen. Dies soll uns helfen unsere Webseite zu erstellen.
+CSS (**Cascading Style Sheets**) ist für die **Formatierung** und für das **Layout** der Webseite verantwortlich. In CSS werden zum Beispiel Farben, Schriften, Abstände und sogar Animationen definiert.
+
+Die beiden Sprachen, HTML und CSS, sind unabhängig voneinander und sollten auch in unterschiedlichen Dateien gespeichert werden
+
+D﻿ie **Software Visual Studio Code** habe ich auf meinen Computer hochgeladen. Dies soll uns helfen unsere Webseite zu erstellen.
