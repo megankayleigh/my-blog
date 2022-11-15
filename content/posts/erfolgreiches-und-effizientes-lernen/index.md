@@ -3,6 +3,7 @@ title = "Erfolgreiches und Effizientes Lernen "
 date = "2022-11-15"
 draft = false
 pinned = false
+image = "lernen.jpg"
 footnotes = "M﻿egan van Hoogdalem Wirtschaftsmittelschule Bern bwd"
 +++
 D﻿ie **wichtigste Regel** überhaupt --> Wiederholen - wiederholen - wiederholen.\
