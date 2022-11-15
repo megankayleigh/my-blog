@@ -3,6 +3,7 @@ title = "Canvas & eigenes Projekt "
 date = "2022-08-30"
 draft = false
 pinned = false
+image = "canvas.jpg"
 footnotes = "Wirtschaftsmittelschule Bern"
 +++
 Ein Canvas ist ein sehr hilfreiches Werkzeug. Es ermöglicht die praktische Umsetzung vom Start-up.
