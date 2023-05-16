@@ -4,7 +4,7 @@ date = "2023-05-16"
 draft = false
 pinned = false
 image = "unbenannt.png"
-description = "(Werbung für unseres Erklärvideo)"
+description = "Hier der Blogeintrag zu unserem Erklärvideo. Nachdem man beide gelesen hat, sind Sie bestens informiert."
 footnotes = "W﻿irtschaftsmittelschule Bern WEB"
 +++
 Das Kaufen einer Ferienwohnung kann eine lohnende Investition sein, sowohl finanziell als auch als Möglichkeit, einen Rückzugsort in einem beliebten Urlaubsziel zu haben. Allerdings gibt es einige Dinge, die man beachten sollte, bevor man eine Ferienwohnung kauft. In unserem **Erklärvideo** werden wir einige wichtige Überlegungen diskutieren, die man berücksichtigen sollten, bevor man sich für den Kauf einer Ferienwohnung entscheiden.
